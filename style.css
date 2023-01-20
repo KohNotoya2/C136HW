@@ -1,0 +1,44 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    letter-spacing: 2px;
+    font-weight: 200;
+    padding-bottom: 10px;
+}
+
+.start {
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 3px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 25px;
+    margin-top: 130px;
+    box-shadow: 10px 10px 10px grey;
+}
+
+.copy_right_footer {
+    bottom: 0;
+    position: fixed;
+    color: grey;
+    width: 100%;
+    background-color: white;
+    line-height:4;
+    text-align: center;
+}
+
+.note {
+    font-size: 18px;
+}
+
+.text_input {
+    width: 20%;
+    margin-top: 30px;
+}
